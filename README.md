@@ -1,0 +1,1 @@
+The condition my program checks for is whatever grade the user inputs into the program as their math grade. Then depending on where it lands on the grading scale, it will print out their grade. The different outcomes can be from A-F.
